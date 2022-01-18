@@ -1,0 +1,13 @@
+[INFO ] 2021-09-29 10:50:36.375 [main] CsvHelper - Cols: 0 rows: 0
+[INFO ] 2021-09-29 10:50:42.763 [main] LoginPage - Login Page Test
+[INFO ] 2021-09-29 10:50:43.352 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-09-29 10:50:49.779 [main] LoginPage - Login Page Test
+[INFO ] 2021-09-29 10:50:50.453 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-09-29 12:47:13.523 [main] CsvHelper - Cols: 0 rows: 0
+[INFO ] 2021-09-29 12:47:21.960 [main] LoginPage - Login Page Test
+[INFO ] 2021-09-29 12:47:30.952 [main] LoginPage - Login Page Test
+[INFO ] 2021-09-29 12:51:02.906 [main] CsvHelper - Cols: 0 rows: 0
+[INFO ] 2021-09-29 12:51:09.545 [main] LoginPage - Login Page Test
+[INFO ] 2021-09-29 12:51:16.305 [main] LoginPage - Login Page Test

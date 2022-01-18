@@ -1,0 +1,107 @@
+[INFO ] 2021-10-07 10:35:57.847 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:36:05.798 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:36:13.241 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:36:20.204 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:41:29.241 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 10:41:29.242 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:41:29.249 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:41:29.249 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:41:29.250 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:41:35.078 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:41:42.557 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:41:49.282 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:41:56.469 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:44:03.463 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 10:44:03.465 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:44:03.471 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:44:03.472 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:44:03.472 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 10:44:08.801 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:44:09.676 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 10:44:16.988 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:44:17.722 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 10:44:23.902 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:44:24.500 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 10:44:30.556 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 10:44:31.275 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 11:04:51.429 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 11:04:51.430 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:04:51.437 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:04:51.438 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:04:51.439 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:04:56.730 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:05:03.799 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:05:10.992 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:05:19.131 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:46:55.359 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 11:46:55.361 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:46:55.367 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:46:55.368 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:46:55.368 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 11:47:01.295 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:47:02.116 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 11:47:07.546 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:47:08.335 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 11:47:15.276 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:47:16.034 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 11:47:22.059 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 11:47:22.830 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 15:15:44.758 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 15:15:44.760 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:15:44.767 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:15:44.767 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:15:44.767 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:15:52.403 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:16:00.163 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:16:42.671 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 15:16:42.674 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:16:42.684 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:16:42.684 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:16:42.685 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:16:49.556 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:16:57.106 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:17:04.410 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:17:10.534 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:19:43.135 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 15:19:43.137 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:19:43.145 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:19:43.147 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:19:43.149 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:19:49.420 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:19:57.091 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:20:04.494 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:20:12.320 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:23:49.983 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 15:23:49.986 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:23:49.994 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:23:49.994 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:23:49.995 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:23:57.020 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:23:57.906 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 15:24:03.939 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:24:06.417 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 15:24:13.022 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:24:13.963 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 15:24:20.316 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:24:21.272 [main] LoggerListener - login--Test method success
+
+[INFO ] 2021-10-07 15:29:21.277 [main] ExcelHelper - total rows:4
+[INFO ] 2021-10-07 15:29:21.279 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:29:21.289 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:29:21.290 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:29:21.290 [main] ExcelHelper - total cols:2
+[INFO ] 2021-10-07 15:29:28.276 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:29:35.724 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:29:43.421 [main] LoginPage - Login Page Test
+[INFO ] 2021-10-07 15:29:50.503 [main] LoginPage - Login Page Test

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 64.892 s <<< FAILURE! - in TestSuite
+verifylogo(com.wbl.test.HomePageTest)  Time elapsed: 0.127 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at com.wbl.test.HomePageTest.verifylogo(HomePageTest.java:22)
+
